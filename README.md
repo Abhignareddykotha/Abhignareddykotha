@@ -80,6 +80,3 @@ Created:
 
 ---
 
-<p align="center">
-✨ “Design is not just how it looks — it’s how it feels.” ✨
-</p>
