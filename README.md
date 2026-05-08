@@ -28,29 +28,50 @@ Currently pursuing my B.Tech in Computer Science Engineering at GITAM University
 
 ## 🛠️ Skills & Tools
 
-### 🎨 Design
+### 🎨 UI/UX & Design
 - Figma
 - Canva
+- Adobe Illustrator
 - UI/UX Design
 - Wireframing
 - Prototyping
+- User Flow Design
 - Graphic Design
-
-### 💻 Programming
-- HTML
-- CSS
-- Python (Basics)
-- C Programming
-
-### 📌 Other
-- GitHub
-- Content Creation
-- Team Collaboration
-- Creative Editing
+- Visual Design
+- Basic Blender 3D
 
 ---
 
-## ✨ Featured Projects
+### 💻 Development
+- HTML
+- CSS
+- JavaScript
+- Python
+- C Programming
+- Responsive Web Design
+- Frontend Development
+
+---
+
+### ⚙️ Tools & Platforms
+- GitHub
+- VS Code
+- Figma
+- Canva
+- Adobe Illustrator
+- Blender 3D (Basics)
+
+---
+
+### 🌟 Soft Skills
+- Creativity & Problem Solving
+- Team Collaboration
+- Communication Skills
+- Content Creation
+- Creative Editing
+- Adaptability
+---
+
 ## ✨ Featured UI/UX & Development Projects
 
 ### 🏋️ Activ Roots – Fitness Studio Booking App
@@ -107,12 +128,14 @@ Worked on Python-based data analysis and real-world case studies during my Softw
 - Tools: Python
 ---
 
-## 📊 Currently Exploring
+## 🚀 Currently Exploring
 
-- Frontend Development
-- Modern UI Trends
-- GitHub Portfolio Building
-- Responsive Web Design
+- Full Stack Web Development
+- UI/UX Design & User-Centered Interfaces
+- Responsive and Mobile-First Web Design
+- Frontend Development with Modern UI Concepts
+- Interactive and Aesthetic Digital Experiences
+- GitHub Portfolio Building & Personal Branding
 
 ---
 
