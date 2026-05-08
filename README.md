@@ -76,9 +76,7 @@ Created:
 
 ## 🌐 Let's Connect
 
-- 💼 LinkedIn: YOUR LINK HERE
-- 📷 Instagram: YOUR ID HERE
-- 💻 GitHub: @Abhignareddykotha
+- 💼 LinkedIn: http://linkedin.com/in/kotha-abhigna-reddy-a88890301/
 
 ---
 
