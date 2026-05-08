@@ -7,15 +7,23 @@
 
 ---
 
-## 🌸 About Me
+### Computer Science Engineering Student | UI/UX Designer • Web Developer • Creative Thinker
 
-- 🎓 Currently pursuing B.Tech in Computer Science Engineering at GITAM University.
-- 🎨 Passionate about UI/UX Design, Graphic Design, and creating aesthetic digital experiences.
-- 💻 Exploring Web Development, GitHub Projects, and Frontend Design.
-- 📱 Interested in social media creatives, branding, and visual storytelling.
-- 🚀 Currently working on internship projects and improving my design portfolio.
-- 🌱 Learning more about Figma, Canva, GitHub, and user-centered design.
+I’m someone who enjoys blending creativity with technology — whether it’s designing smooth user experiences, building responsive websites, or exploring new ideas through digital products. I love creating interfaces that feel modern, simple, and visually engaging.
 
+Currently pursuing my B.Tech in Computer Science Engineering at GITAM University, I’m exploring UI/UX Design, Web Development, and Software Development while continuously improving my technical and creative skills.
+
+---
+
+## ✨ A Little About Me
+
+- 🎨 Designing modern UI/UX concepts for mobile apps, dashboards, and websites.
+- 💻 Learning and building projects using HTML, CSS, JavaScript, and Python.
+- 📱 Worked on projects like fitness booking apps, CRM dashboards, music streaming websites, and food ordering interfaces.
+- 🚀 Interested in creating responsive, interactive, and visually clean digital experiences.
+- 🌱 Exploring frontend development, prototyping, wireframing, and user-focused design systems.
+- 🧠 Curious about how technology, creativity, and user behavior connect together.
+- ☕ Usually found redesigning random interfaces in my free time just for fun.
 ---
 
 ## 🛠️ Skills & Tools
